@@ -1,4 +1,4 @@
-# atellite-Driven-Spatiotemporal-Weather-Forecasting-
+# Satellite-Driven Spatiotemporal Weather Forecasting Using Google Earth Engine 
 basic detail of the project :
 Developed an interactive system for region-specific weather prediction using GEE, Python, and JavaScript.
 
